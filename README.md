@@ -21,7 +21,7 @@ If you are using a Windows machine and you do not have access to a Unix/Linux en
 
 ## Usage
 
-Run this command in the root directory of the repository to build the project. A text file called "pokemon_stat_report.txt" will be created in your reports directory. 
+Run this command in the root directory of the repository to build the project. A text file called "my_pokemon_stat_report.txt" will be created in your reports directory. 
 
 ```bash
 make -f ppb.mak
